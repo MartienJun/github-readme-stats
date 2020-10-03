@@ -1,7 +1,7 @@
 const themes = {
   myTheme: {
-    title_color: "FFDD00",
-    icon_color: "4c71f2",
+    title_color: "000",
+    icon_color: "000",
     text_color: "000",
     bg_color: "000",
   },
