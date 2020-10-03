@@ -2,8 +2,8 @@ const themes = {
   myTheme: {
     title_color: "FFDD00",
     icon_color: "4c71f2",
-    text_color: "333",
-    bg_color: "000000",
+    text_color: "000",
+    bg_color: "000",
   },
   default: {
     title_color: "2f80ed",
