@@ -1,4 +1,10 @@
 const themes = {
+  myTheme: {
+    title_color: "FFDD00",
+    icon_color: "4c71f2",
+    text_color: "333",
+    bg_color: "000000",
+  },
   default: {
     title_color: "2f80ed",
     icon_color: "4c71f2",
